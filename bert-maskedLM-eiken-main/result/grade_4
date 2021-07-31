@@ -1,0 +1,35 @@
+
+[Question] : My father is a _ of a sports club. He plays tennis there every Wednesday night.
+	1) festival 2) picnic 3) member 4) group
+
+-> BERT's Answer : member
+->   Real Answer : member
+
+
+[Question] : Mr. Clark told us many interesting _ about his trip to India.
+	1) pictures 2) books 3) stories 4) magazines
+
+-> BERT's Answer : stories
+->   Real Answer : stories
+
+
+[Question] : It’s snowing a lot today, so please drive _.
+	1) slowly 2) freely 3) coldly 4) busily
+
+-> BERT's Answer : slowly
+->   Real Answer : slowly
+
+
+[Question] : There _ a new swimming pool near pur house.
+	1) be 2) are 3) does 4) is
+
+-> BERT's Answer : is
+->   Real Answer : is
+
+
+[Question] : When Sachiko was visiting India, she _ her camera
+	1) lost 2) lose 3) to lose 4) losing
+
+-> BERT's Answer : lost
+->   Real Answer : lost
+
