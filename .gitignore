@@ -1,3 +1,4 @@
-./data/
-./presentation/
-./archive/
+/data
+/presentation
+/archive
+/.idea
