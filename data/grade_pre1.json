@@ -1,0 +1,82 @@
+{
+  "1": {
+    "question": "Lisa went to the interview even though she thought there was a low _ of her getting the job. As she expected, she was not hired.",
+    "answer": "probability",
+    "1": "restoration",
+    "2": "credibility",
+    "3": "contention",
+    "4": "probability"
+  },
+  "2": {
+    "question": "It is sadly _ that, in developing countries, many of the farmers who grow nutritious crops for export do not have enough food to feed their own families.",
+    "answer" : "ironic",
+    "1": "indefinite",
+    "2": "ironic",
+    "3": "restless",
+    "4": "superficial"
+  },
+  "3": {
+    "question": "The explosion at the chemical factory _ great damage on the local environment. It will take years for wildlife to fully recover in the region.",
+    "answer" : "inflicted",
+    "1": "inflicted",
+    "2": "enhanced",
+    "3": "vanished",
+    "4": "perceived"
+  },
+  "4": {
+    "question": "Some say the best way to overcome a _ is to expose oneself to what one fears. For example, people who are afraid of mice should try holding one.",
+    "answer" : "phobia",
+    "1": "temptation",
+    "2": "barricade",
+    "3": "phobia",
+    "4": "famine"
+  },
+  "5": {
+    "question": "English classes at the university were required, but students were _ from them if they could prove they had advanced ability in the language.",
+    "answer" : "exempted",
+    "1": "exempted",
+    "2": "prosecuted",
+    "3": "commanded",
+    "4": "quantified"
+  },
+  "6": {
+    "question": "E-mail and text messaging have _ the way people write. Many people shorten words and ignore traditional rules of grammar.",
+    "answer" : "transformed",
+    "1": "transformed",
+    "2": "officiated",
+    "3": "synthesized",
+    "4": "disarmed"
+  },
+  "7": {
+    "question": "If you don’t come to the party tomorrow night, you’ll _ on all the fun. Sorry, I really have to finish my presentation. You can tell me about the party later.",
+    "answer" : "miss out",
+    "1": "miss out",
+    "2": "add up",
+    "3": "get over",
+    "4": "join in"
+  },
+  "8": {
+    "question": "Marty spent many hours _ the problem before he realized that the solution was much simpler than he thought.",
+    "answer" : "wrestling with",
+    "1": "living down",
+    "2": "clearing out",
+    "3": "snapping off",
+    "4": "wrestling with"
+  },
+  "9": {
+    "question": "As the suspect was being arrested by the police, he _ an officer’s gun. Luckily, he was stopped before he could get it.",
+    "answer" : "went for",
+    "1": "went for",
+    "2": "let up",
+    "3": "picked over",
+    "4": "set off"
+  },
+  "10": {
+    "question": "After living in a remote jungle for three months, the researcher was glad when he could finally access the Internet and _ the news in his home country.",
+    "answer" : "catch up on",
+    "1": "catch up on",
+    "2": "change out of",
+    "3": "open up to",
+    "4": "put up with"
+  }
+}

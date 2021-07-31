@@ -1,0 +1,42 @@
+{
+  "1": {
+    "question": "Last summer, Hiroshi’s family traveled around Japan. This year they want to go _.",
+    "answer": "abroad",
+    "1": "abroad",
+    "2": "inside",
+    "3": "other",
+    "4": "similar"
+  },
+  "2": {
+    "question": "Bob _ five friends to his party.",
+    "answer" : "invited",
+    "1": "made",
+    "2": "visited",
+    "3": "invited",
+    "4": "spoke"
+  },
+  "3": {
+    "question": "I bought a new T-shirt for my brother, but I bought the wrong size. It was too _ for him.",
+    "answer" : "tight",
+    "1": "heavy",
+    "2": "clear",
+    "3": "tight",
+    "4": "bright"
+  },
+  "4": {
+    "question": "Joseph lost his glasses again. He searched all _ the place, but he couldn't find them.",
+    "answer" : "over",
+    "1": "over",
+    "2": "under",
+    "3": "up",
+    "4": "down"
+  },
+  "5": {
+    "question": "Last Saturday, my bicycle was _. I have to buy a new one.",
+    "answer" : "stolen",
+    "1": "steal",
+    "2": "stole",
+    "3": "stolen",
+    "4": "stealing"
+  }
+}

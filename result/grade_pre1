@@ -1,0 +1,35 @@
+
+[Question] : Lisa went to the interview even though she thought there was a low _ of her getting the job. As she expected, she was not hired.
+	1) restoration 2) credibility 3) contention 4) probability
+
+-> BERT's Answer : probability
+->   Real Answer : probability
+
+
+[Question] : It is sadly _ that, in developing countries, many of the farmers who grow nutritious crops for export do not have enough food to feed their own families.
+	1) indefinite 2) ironic 3) restless 4) superficial
+
+-> BERT's Answer : ironic
+->   Real Answer : ironic
+
+
+[Question] : The explosion at the chemical factory _ great damage on the local environment. It will take years for wildlife to fully recover in the region.
+	1) inflicted 2) enhanced 3) vanished 4) perceived
+
+-> BERT's Answer : inflicted
+->   Real Answer : inflicted
+
+
+[Question] : As the suspect was being arrested by the police, he _ an officer’s gun. Luckily, he was stopped before he could get it.
+	1) went for 2) let up 3) picked over 4) set off
+
+-> BERT's Answer : went for
+->   Real Answer : went for
+
+
+[Question] : After living in a remote jungle for three months, the researcher was glad when he could finally access the Internet and _ the news in his home country.
+	1) catch up on 2) change out of 3) open up to 4) put up with
+
+-> BERT's Answer : put up with
+->   Real Answer : catch up on
+

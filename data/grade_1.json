@@ -1,0 +1,82 @@
+{
+  "1": {
+    "question": "Cell phones have become a permanent _ in modern society. Most people could not imagine living without one.",
+    "answer": "fixture",
+    "1": "clasp",
+    "2": "stint",
+    "3": "fixture",
+    "4": "rupture"
+  },
+  "2": {
+    "question": "Colin did not have enough money to pay for the car all at once, so he paid it off in _ of $800 a month for two years.",
+    "answer" : "installments",
+    "1": "dispositions",
+    "2": "installments",
+    "3": "enactments",
+    "4": "speculations"
+  },
+  "3": {
+    "question": "When she asked her boss for a raise, Melanie’s _ tone of voice made it obvious how nervous she was.",
+    "answer" : "diffident",
+    "1": "garish",
+    "2": "jovial",
+    "3": "pompous",
+    "4": "diffident"
+  },
+  "4": {
+    "question": "The religious sect established a _ in a rural area where its followers could live together and share everything. No private property was allowed.",
+    "answer" : "commune",
+    "1": "dirge",
+    "2": "prelude",
+    "3": "repository",
+    "4": "commune"
+  },
+  "5": {
+    "question": "The famous reporter was fired for _ another journalist’s work. His article was almost exactly the same as that of the other journalist.",
+    "answer" : "plagiarizing",
+    "1": "alleviating",
+    "2": "plagiarizing",
+    "3": "inoculating",
+    "4": "beleaguering"
+  },
+  "6": {
+    "question": "Now that the local steel factory has closed down, the streets of the once busy town are lined with _ businesses. Most owners have abandoned their stores.",
+    "answer" : "defunct",
+    "1": "rhetorical",
+    "2": "volatile",
+    "3": "defunct",
+    "4": "aspiring"
+  },
+  "7": {
+    "question": "The meeting was supposed to _ by noon, but it was still going at 1:30 p.m. By then, most of the people were very hungry.",
+    "answer" : "wind up",
+    "1": "wind up",
+    "2": "shell out",
+    "3": "wear in",
+    "4": "spill over"
+  },
+  "8": {
+    "question": "The new prime minister’s economic policy focuses on _ inflation. He has promised to get prices under control as quickly as possible.",
+    "answer" : "reining in",
+    "1": "sounding out",
+    "2": "stitching up",
+    "3": "reining in",
+    "4": "locking away"
+  },
+  "9": {
+    "question": "The detective spent several months _ the circumstances surrounding the murder before he was able to discover who had done it.",
+    "answer" : "digging into",
+    "1": "tilting at",
+    "2": "swinging around",
+    "3": "digging into",
+    "4": "bracing for"
+  },
+  "10": {
+    "question": "The meeting was supposed to _ by noon, but it was still going at 1:30 p.m. By then, most of the people were very hungry.",
+    "answer" : "wind up",
+    "1": "wind up",
+    "2": "shell out",
+    "3": "wear in",
+    "4": "spill over"
+  }
+}

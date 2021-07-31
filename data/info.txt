@@ -1,0 +1,7 @@
+2021年度 第1回　より
+
+問題構成
+1~3 : 単語選択
+4~5 : 熟語選択
+
+c.f. https://github.com/graykode/toeicbert

@@ -1,0 +1,42 @@
+{
+  "1": {
+    "question": "Jamie visited several _ buildings when he went to Rome. Some of them were more than 2,000 years old.",
+    "answer": "ancient",
+    "1": "ancient",
+    "2": "exact",
+    "3": "responsible",
+    "4": "unable"
+  },
+  "2": {
+    "question": "Sally’s French teacher told her to read an article in a French newspaper and _ it into English.",
+    "answer" : "translate",
+    "1": "guide",
+    "2": "throw",
+    "3": "control",
+    "4": "translate"
+  },
+  "3": {
+    "question": "Henry likes living in the city because there are so many things to do there. But he also loves nature, so sometimes he goes for a drive in the _",
+    "answer" : "countryside",
+    "1": "decision",
+    "2": "experiment",
+    "3": "countryside",
+    "4": "image"
+  },
+  "4": {
+    "question": "Stephanie thought she would not enjoy the movie Train Chaos, but it was _ more exciting than she expected.",
+    "answer" : "much",
+    "1": "too",
+    "2": "so",
+    "3": "very",
+    "4": "much"
+  },
+  "5": {
+    "question": "According to a survey _ by a major bank, an increasing number of people are worried about not having enough money in the future.",
+    "answer" : "taken",
+    "1": "taking",
+    "2": "to be taken",
+    "3": "taken",
+    "4": "to have taken"
+  }
+}

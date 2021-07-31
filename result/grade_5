@@ -1,0 +1,35 @@
+
+[Question] : I know Judy. She can _ French very well.
+	1) see 2) drink 3) speak 4) open
+
+-> BERT's Answer : speak
+->   Real Answer : speak
+
+
+[Question] : My sister usually plays tennis _ Saturdays.
+	1) by 2) on 3) with 4) at
+
+-> BERT's Answer : on
+->   Real Answer : on
+
+
+[Question] : My mother likes _. She has many pretty ones in the garden.
+	1) sports 2) movies 3) schools 4) flowers
+
+-> BERT's Answer : flowers
+->   Real Answer : flowers
+
+
+[Question] : My brother usually _ to his favorite songs after dinner.
+	1) helps 2) starts 3) teaches 4) listens
+
+-> BERT's Answer : listens
+->   Real Answer : listens
+
+
+[Question] : Ellen can _ very well.
+	1) sing 2) sings 3) sang 4) singing
+
+-> BERT's Answer : sing
+->   Real Answer : sing
+

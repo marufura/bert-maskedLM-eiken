@@ -1,0 +1,42 @@
+{
+  "1": {
+    "question": "I know Judy. She can _ French very well.",
+    "answer": "speak",
+    "1": "see",
+    "2": "drink",
+    "3": "speak",
+    "4": "open"
+  },
+  "2": {
+    "question": "My sister usually plays tennis _ Saturdays.",
+    "answer" : "on",
+    "1": "by",
+    "2": "on",
+    "3": "with",
+    "4": "at"
+  },
+  "3": {
+    "question": "My mother likes _. She has many pretty ones in the garden.",
+    "answer" : "flowers",
+    "1": "sports",
+    "2": "movies",
+    "3": "schools",
+    "4": "flowers"
+  },
+  "4": {
+    "question": "My brother usually _ to his favorite songs after dinner.",
+    "answer" : "listens",
+    "1": "helps",
+    "2": "starts",
+    "3": "teaches",
+    "4": "listens"
+  },
+  "5": {
+    "question": "Ellen can _ very well.",
+    "answer" : "sing",
+    "1": "sing",
+    "2": "sings",
+    "3": "sang",
+    "4": "singing"
+  }
+}

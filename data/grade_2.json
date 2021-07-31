@@ -1,0 +1,82 @@
+{
+  "1": {
+    "question": "At first, the marketing department and the sales department were working on the project together. But people in the sales department were too busy, so now the project is being run _ by the marketing department.",
+    "answer": "entirely",
+    "1": "needlessly",
+    "2": "entirely",
+    "3": "scientifically",
+    "4": "violently"
+  },
+  "2": {
+    "question": "Experts at the art gallery discovered that one of their paintings, which they had thought was a _ Picasso, was actually just a copy.",
+    "answer" : "genuine",
+    "1": "genuine",
+    "2": "severe",
+    "3": "logical",
+    "4": "portable"
+  },
+  "3": {
+    "question": "The musician Jimmy Baker had a lot of _ when he was a child. His family was very poor before he became a rich and famous rock star.",
+    "answer" : "hardship",
+    "1": "permission",
+    "2": "membership",
+    "3": "concentration",
+    "4": "hardship"
+  },
+  "4": {
+    "question": "Mother Teresa helped many sick people and gave food to many hungry children in India. She was known as a person who cared about _ .",
+    "answer" : "humanity",
+    "1": "generation",
+    "2": "gravity",
+    "3": "hesitation",
+    "4": "humanity"
+  },
+  "5": {
+    "question": "As Liam walked down the dark street, he began to feel afraid. He had the _ that someone was watching him.",
+    "answer" : "sensation",
+    "1": "feature",
+    "2": "translation",
+    "3": "sensation",
+    "4": "property"
+  },
+  "6": {
+    "question": "Risa buys water that comes from a mountain stream. She says that drinking it is good because it has many _ that her body needs.",
+    "answer" : "minerals",
+    "1": "campaigns",
+    "2": "operations",
+    "3": "illustrations",
+    "4": "minerals"
+  },
+  "7": {
+    "question": "A heavy storm _ in Montaine Valley last month. The farmers in the area could not sell their vegetables because they were damaged.",
+    "answer" : "did a lot of harm",
+    "1": "had some difficulty",
+    "2": "did a lot of harm",
+    "3": "took a break",
+    "4": "found fault"
+  },
+  "8": {
+    "question": "When Jocelyn graduates from college, she wants to work for a volunteer organization. She wants to spend her time working _ other people.",
+    "answer" : "for the benefit of",
+    "1": "at the sight of",
+    "2": "for a change of",
+    "3": "for the benefit of",
+    "4": "at the thought of"
+  },
+  "9": {
+    "question": "It was so noisy at the concert that Jane struggled to _. She had to shout to communicate with her friend.",
+    "answer" : "make herself heard",
+    "1": "make heard herself",
+    "2": "make herself heard",
+    "3": "hearing herself made",
+    "4": "herself made heard"
+  },
+  "10": {
+    "question": "Mr. Martinez is loved by all the students in the school. However, Ms. Garcia is not _ as he is, so she is less popular than Mr. Martinez.",
+    "answer" : "as kind a person",
+    "1": "as kind a person",
+    "2": "a kind as person",
+    "3": "as a kind person",
+    "4": "as person a kind"
+  }
+}
