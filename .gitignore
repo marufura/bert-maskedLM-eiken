@@ -1,4 +1,4 @@
-/data
-/presentation
-/archive
-/.idea
+data/
+presentation/
+archive/
+.idea/
